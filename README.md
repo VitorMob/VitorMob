@@ -14,20 +14,12 @@ FOLLOW-ME!!
         <img alt="C" width="32em" height="32em" src="assets/c.svg">
     </a>
     <a href="#">
-        <img alt="PHP" width="32em" height="32em" src="assets/php.svg">
-    </a>
-    <a href="#">
         <img alt="ShellScript" width="32em" height="32em" src="assets/shell.svg">
     </a>
     <a href="#">
         <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
-    </a>
-    <a href="#">
-        <img alt="Html" width="32em" height="32em" src="assets/html.svg">    
-    </a>
-    <a href="#">
-        <img alt="CSS" width="32em" height="32em" src="assets/ccs3.svg">    
-    </a>
+    </a>  
+    
 
 </p>
 
