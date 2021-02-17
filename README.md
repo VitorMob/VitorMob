@@ -1,13 +1,13 @@
 
 # My profile! 
 
-FOLLOW-ME!!
+:: FOLLOW-ME ::
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=VitorMob-C&style=flat-square)
 
-### :space_invader: Technologies
+### :space_invader: Technologies :: 
 
 <p>
     <a href="#">
@@ -23,7 +23,7 @@ FOLLOW-ME!!
 <p>
 
 
-### :envelope: Contact?
+### :envelope: Contact my Tryhackme :: 
    <a href="https://tryhackme.com/p/Mob">
         <img src="assets/Mob.svg" alt="TryHackMe">
    </a>
