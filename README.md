@@ -19,16 +19,12 @@ FOLLOW-ME!!
     <a href="#">
         <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
     </a>  
-    
+        
+<p>
 
-</p>
 
 ### :envelope: Contact?
-
-<p>
-    <a 
-        <img src="assets/Mob.png" alt="TryHackMe">
-    <a
-</p>
-
-<hr>
+   <a href="https://tryhackme.com/p/Mob">
+        <img src="assets/Mob.svg" alt="TryHackMe">
+   </a>
+<br>
