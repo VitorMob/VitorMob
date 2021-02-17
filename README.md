@@ -26,9 +26,9 @@ FOLLOW-ME!!
 ### :envelope: Contact?
 
 <p>
-    <a href="https://tryhackme.com/p/Mob">
-       <img src="https://tryhackme-badges.s3.amazonaws.com/Mob.png" alt="TryHackMe">
-    </a>
+    <a 
+        <img src="assets/tryhackme.png" alt="TryHackMe">
+    <a
 </p>
 
 <hr>
