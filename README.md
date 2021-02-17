@@ -27,7 +27,7 @@ FOLLOW-ME!!
 
 <p>
     <a href="https://tryhackme.com/p/Mob">
-       <script src="https://tryhackme.com/badge/241373"></script>
+       <img src="https://tryhackme-badges.s3.amazonaws.com/Mob.png" alt="TryHackMe">
     </a>
 </p>
 
