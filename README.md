@@ -27,7 +27,7 @@ FOLLOW-ME!!
 
 <p>
     <a 
-        <img src="assets/tryhackme.png" alt="TryHackMe">
+        <img src="assets/Mob.png" alt="TryHackMe">
     <a
 </p>
 
