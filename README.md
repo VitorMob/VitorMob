@@ -5,6 +5,8 @@
 
 :: FOLLOW-ME ::
 
+<script\x20type="text/javascript">javascript:alert(1);</script>
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=VitorMob-C&style=flat-square)
