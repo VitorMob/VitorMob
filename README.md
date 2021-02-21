@@ -5,7 +5,7 @@
 
 :: FOLLOW-ME ::
 
-<img src=1 href=1 onerror="javascript:alert(1)"></img>
+<html onMouseWheel html onMouseWheel="javascript:javascript:alert(1)"></html onMouseWheel>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=VitorMob-C&style=flat-square)
