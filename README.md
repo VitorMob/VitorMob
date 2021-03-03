@@ -1,11 +1,11 @@
-# My profile! 
+# My profile! 👨🏻‍🦱
 ![AltText](https://data.whicdn.com/images/54406285/original.gif)
 
-:: FOLLOW-ME ::
+:: FOLLOW-ME :: 🙋🏻‍♂️
 
 ![](https://komarev.com/ghpvc/?username=VitorMob-C&style=flat-square)
 
-### :: :space_invader: Technologies :: 
+### :: Technologies :: :space_invader:
 
 <p>
     <a href="#">
