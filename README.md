@@ -24,9 +24,9 @@
 
 
 ### :: :envelope: Contact my Tryhackme :: 
-   <a href="https://tryhackme.com/p/Mob">
-        <img src="assets/Mob.svg" alt="TryHackMe">
-   </a>
+   <a 
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Mob.png" alt="TryHackMe"> 
+   <a/>
 <br>
 
 
