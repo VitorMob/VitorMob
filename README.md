@@ -22,10 +22,6 @@
         
 <p>
 
-
-### :: :envelope: Contact my Tryhackme :: 
-   <a 
-    <img alt="Mob.svg" alt="TryHackMe"> 
 <br>
 
 
