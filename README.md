@@ -17,7 +17,7 @@
         <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
 </a>
 
-<p
+<p>
    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&hide=html&layout=compact&theme=material-palenight">
 
 </p>
