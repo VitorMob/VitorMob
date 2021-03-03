@@ -1,8 +1,6 @@
 
 # My profile! 
 
-![](https://i.pinimg.com/originals/54/3a/6c/543a6c26d5ec27a9fa4effade8b61805.gif)
-
 :: FOLLOW-ME ::
 
 ![](https://komarev.com/ghpvc/?username=VitorMob-C&style=flat-square)
@@ -18,10 +16,11 @@
     </a>
     <a href="#">
         <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
-    </a>  
-        
-<p>
+</a>
 
-<br>
+<p align="center">
+   <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&hide=html&layout=compact&theme=material-palenight">
+
+</p>
 
 
