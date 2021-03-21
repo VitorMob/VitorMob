@@ -1,5 +1,4 @@
 # My profile! 👨🏻‍🦱
-![AltText](https://data.whicdn.com/images/54406285/original.gif)
 
 ### :: FOLLOW-ME :: 🙋🏻‍♂️
 
