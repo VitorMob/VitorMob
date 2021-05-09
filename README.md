@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=VitorMob-C&style=flat-square)
 
 ### :: Technologies :: :space_invader:
-
+<center>
 <p>
     <a href="#">
         <img alt="C" width="32em" height="32em" src="assets/c.svg">
@@ -15,8 +15,10 @@
     </a>
     <a href="#">
         <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
+    <a href="#">
+        <img alt="C++"   width="32em" height="32em" src="assets/image.png">
 </a>
-
+</center>
 <hr>
 
 <p>
