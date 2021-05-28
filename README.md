@@ -16,7 +16,7 @@
     <a href="#">
         <img alt="C++"   width="32em" height="32em" src="assets/image.png">
     <a href="#">
-        <img alt="Assembly" width="40em" height="32em" src="assets/assembly.png">
+        <img alt="Assembly" width="40em" height="40em" src="assets/assembly.png">
 </a>
 </center>
 <hr>
