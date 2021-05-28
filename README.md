@@ -8,7 +8,7 @@
 <center>
 <p>
     <a href="#">
-        <img alt="C" width="32em" height="32em" src="assets/c.svg">
+        <img alt="C" width="32em" height="32em" src="assets/c.png">
     </a>
     <a href="#">
         <img alt="ShellScript" width="32em" height="32em" src="assets/shell.svg">
