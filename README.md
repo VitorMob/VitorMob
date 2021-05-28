@@ -17,6 +17,8 @@
         <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
     <a href="#">
         <img alt="C++"   width="32em" height="32em" src="assets/image.png">
+    <a href="#">
+        <img alt="C" width="32em" height="32em" src="assets/assembly.png">
 </a>
 </center>
 <hr>
