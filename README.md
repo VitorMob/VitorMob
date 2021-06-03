@@ -1,28 +1,20 @@
-# My profile! 👨🏻‍🦱
+# My profile!!
 
-### :: FOLLOW-ME :: 🙋🏻‍♂️
+```C++
+    int main()
+    {
+        cout << "Hello my friend!!, I hope you like my profile" << endl;
+        return 0;
+    }
+```
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VitorMob)](https://github.com/VitorMob)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-9136b5209/)](https://www.linkedin.com/in/joão-victor-9136b5209/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Vitor_Mob)](https://twitter.com/Vitor_Mob)
 
-![](https://komarev.com/ghpvc/?username=VitorMob-C&style=flat-square)
+[![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=VitorMob&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-### :: Technologies :: :space_invader:
-<center>
-<p>
-    <a href="#">
-        <img alt="C" width="32em" height="32em" src="assets/c.png">
-    <a href="#">
-        <img alt="ShellScript" width="32em" height="32em" src="assets/shell.svg">
-    <a href="#">
-        <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
-    <a href="#">
-        <img alt="C++"   width="32em" height="32em" src="assets/image.png">
-    <a href="#">
-        <img alt="Assembly" width="40em" height="40em" src="assets/assembly.png">
-</a>
-</center>
-<hr>
-
-<p>
-   <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&hide=html&layout=compact&theme=material-palenight">
-</p>
-
-
+### I love
+> - [x] Asm
+> - [x] C
+> - [x] C++
+> - [x] Python
