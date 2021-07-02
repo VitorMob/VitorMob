@@ -17,7 +17,7 @@
 | --- | --- |
 |[![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=VitorMob&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
  
-| Love |
+| I Love |
 | --- |
 | > - [x] Asm|
 | > - [x] C|
