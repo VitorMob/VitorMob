@@ -30,7 +30,6 @@
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ### Statistics
-|     |
-| --- |
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&theme=dracula&layout=demo)](https://github.com/anuraghazra/github-readme-stats)|
-|[![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=VitorMob&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|
+|     |     |
+| --- | --- |
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&theme=dracula&layout=demo)](https://github.com/anuraghazra/github-readme-stats)|[![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=VitorMob&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|
