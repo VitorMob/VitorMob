@@ -13,4 +13,6 @@
 |[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-9136b5209/)](https://www.linkedin.com/in/joão-victor-9136b5209/)| C |
 |[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Vitor_Mob)](https://twitter.com/Vitor_Mob)| C++ |
 | - | Python| 
-|[![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=VitorMob&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+
+
+[![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=VitorMob&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMob&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
